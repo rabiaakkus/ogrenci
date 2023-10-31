@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\indirimli-satis\indirimli-satis\bin\Debug\indirimli-satis.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\indirimli-satis\indirimli-satis\bin\Debug\indirimli-satis.exe
+C:\Users\student\Desktop\Ahmet\ntp\indirimli-satis\indirimli-satis\bin\Debug\indirimli-satis.pdb
+C:\Users\student\Desktop\Ahmet\ntp\indirimli-satis\indirimli-satis\obj\Debug\indirimli-satis.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\indirimli-satis\indirimli-satis\obj\Debug\indirimli_satis.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\indirimli-satis\indirimli-satis\obj\Debug\indirimli_satis.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\indirimli-satis\indirimli-satis\obj\Debug\indirimli-satis.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\indirimli-satis\indirimli-satis\obj\Debug\indirimli-satis.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\indirimli-satis\indirimli-satis\obj\Debug\indirimli-satis.exe
+C:\Users\student\Desktop\Ahmet\ntp\indirimli-satis\indirimli-satis\obj\Debug\indirimli-satis.pdb
